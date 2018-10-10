@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang = "ko-KR">
+<head>
+  <meta charset="utf-8">
+  <title>과제 1-6</title>
+</head>
+<body>
+
+<img src="https://yaimg.yanolja.com/resize/place/v4/2017/08/19/07/640/59976c4f7cf998.25532436.jpg" alt = "H Avenue 역삼점 사진">
+
+<h2>H Avenue 역삼점</h2>
+<span> 5점 만점에 4.5점</span>
+<span class = "review"> 후기: <data value = "3038"> 3038개</data></span>
+
+
+
+<div>
+  <strong>대실</strong> 최대 4시간 <mark> 예약가</mark>
+   <span class = "hidden-text">원래 가격</span><s>40,000</s> <span class = "hidden-text"> 현재 가격 </span> <span>30,000</span>
+</div>
+
+ <div>
+   <strong>숙박</strong> 21:00~ <mark> 예약가</mark>
+   <span class = "hidden-text">원래 가격</span><s>70,000</s> <span class = "hidden-text"> 현재 가격 </span> <span>50,000</span>
+ </div>
+
+
+<p>
+<span> &#35;TOP100</span><span> &#35;마이룸</span> <span>&#35;좋은숙박연구소</span> <span>&#35;현장적립</span> <span>&#35;최저가보상</span>
+</p>
+
+<p>
+  *비즈니스 고객님!, 두분이서 오세요!*<br>
+  *아메리카노 무료 제공*
+</p>
+</body>
+</html>
