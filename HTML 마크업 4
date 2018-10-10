@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ko-KR">
+<head>
+
+<title> 과제 1-4</title>
+</head>
+<body>
+  <h1> 8퍼센트에서 4,482,678건의 투자가 이루어졌습니다. </h1>
+
+  <blockquote>
+    <q>소액투자자, 고액투자자 모두가 만족하고<br>투자 할 수 있는 P2P업체라고 생각합니다.</q>
+    <cite>
+    <img src=" https://i.postimg.cc/j281d51x/image.png" alt = "김형일 고객님"> <br>
+    김형일 고객님<br>
+    30대, 직장인
+   </cite>
+  </blockquote>
+
+  <blockquote>
+    ‘성장 가능성이 무한한 회사!’<br> 그리고, 체계적인 시스템을 갖춘 플랫폼
+    <cite>
+    <img src=" https://i.postimg.cc/V609bN5s/image.png" alt = "박수정 고객님"> <br>
+
+    박수정 고객님<br>
+    30대, 직장인
+
+   </cite>
+  </blockquote>
+
+</body>
+</html>
